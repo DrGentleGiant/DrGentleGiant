@@ -2,4 +2,4 @@
 - 👀 I’m interested in optimizing and automating processes with SQL and Python
 - 🌱 I’m currently learning to advance my Python skills beyond data analysis and visualisation 
 - 💞️ I’m looking to collaborate on SQL and Python projects to expand my knowledge base in these area
-- 📫 You can reach out to me 
+- 📫 You can reach out to me via @Devmantic on twitter
